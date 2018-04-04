@@ -74,3 +74,9 @@ flycheck_*.el
 /digitalocean/deploy/docker/digitalocean-flexplugin
 /digitalocean/digitalocean-provisioner
 /digitalocean/deploy/docker/digitalocean-provisioner
+
+# flex binaries
+/flex/cmd/flex-provisioner/debug
+/flex/cmd/flex-provisioner/flex-provisioner.exe
+
+/vendor/
